@@ -4,5 +4,5 @@ This is the repository for group 05 in tdt4173. The repository contains all the 
 # Web-App
 In addition to the report and the project, a web app has been developed. The app is not deployed, and has to be run from desktop. It is a streamlit app and is run by entering the following in the terminal: streamlit run webApp.py
 
-![Alt text](BreastCancer.jpg?raw=true "Title")
+![Alt text](app.jpg?raw=true "Title")
 
