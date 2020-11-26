@@ -3,7 +3,6 @@ from PIL import Image
 
 import SVC_optimized
 from UserInput import *
-from SVC import *
 from preProcessing import *
 
 
